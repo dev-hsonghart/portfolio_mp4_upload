@@ -11,3 +11,7 @@ video {
   border-radius: 20px;
   height: 80vh;
 }
+
+#small {
+  height: 70vh;
+}
